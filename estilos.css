@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.intro{
+    margin-top: 10px;
+}
+.seccion1{
+    background-color: rgb(6, 106, 6);
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin-bottom: 16px;
+    font-size: 40px;
+}
+
+.seccion2{
+    background-color: red;
+    position: relative;
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.seccion2 figure img{
+    width: 100%;
+}
+
+figure{
+    width: 40%;
+}
+
+div{
+    width: 50%;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align: center;
+}
+.seccion3{
+    background-color: red;
+    position: relative;
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.div2{
+    display: inline;
+    left: 0px;
+}
+.seccion3 figure img{
+    width: 100%;
+}
+.figure2{
+    width: 40%;
+    position: relative;
+    left: 900px;
+}
+footer{
+    margin-top: 20px;
+}
+
+.button{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 15px 20px;
+    border-radius: 50px;
+}
+.aprende{
+    color: white;
+}
+.login{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 15px 20px;
+    border-radius: 50px;
+    position: relative;
+    left: 900px;
+}
+.register{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 15px 20px;
+    border-radius: 50px;
+    position: relative;
+    left: 900px;
+}
+.recursos{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
